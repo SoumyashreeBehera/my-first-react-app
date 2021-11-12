@@ -1,5 +1,4 @@
-Practo Clone
-This is a clone of the Practo India App, built with ReactJS, styled-components, and Axios. The desktop app and mobile app have been made for the same using PWA (Progressive Web Apps).
+A web application to record expenses on-the-go
 
 Deployed
 <a href="https://first-ract-project.vercel.app/">Visit Live Site</a>
